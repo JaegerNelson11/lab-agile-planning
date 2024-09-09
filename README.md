@@ -1,2 +1,2 @@
 # lab-agile-planning
- This repository contains the lab for making kanban board
+ This repository contains the lab for agile planning and making a kanban board
